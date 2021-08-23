@@ -18,10 +18,10 @@ cards -> Points
 
 Example of cards and suites in game
 
-4D - four of denari
-13B - Knight of bastoni
-7S - seven of spades
-1K - ace of Coppe
+4D - four of denari,
+13B - Knight of bastoni,
+7S - seven of spades,
+1K - ace of Coppe,
 
 More about game:
 
