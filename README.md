@@ -10,8 +10,8 @@ A deck of Italian cards consists of forty cards, divided into four suits: coins 
 Below is a table identifying card rank and point values. Unlisted cards have no point value, and are ranked in descending ordinal value, from seven to two. Note however the odd ranking of the three.
 
 cards -- Points
-Ace (Asso) -- 11
-Three (Tre) -- 10
+[Ace (Asso) -- 11]\n
+[Three (Tre) -- 10]
 King (Re) -- 4
 Knight (Cavallo) -- 3
 Jack (Fante) -- 2
