@@ -17,6 +17,7 @@ cards -> Points
 [Jack (Fante) -> 2 points]
 
 Example of cards and suites in game
+
 4D - four of denari
 13B - Knight of bastoni
 7S - seven of spades
